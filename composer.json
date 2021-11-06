@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mikechip/chatapi": "^2.0",
+        "telegram-bot/api": "^2.3"
+    }
+}
